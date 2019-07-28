@@ -1,0 +1,74 @@
+[
+    {
+        "id": 0,
+        "name": "bluejay",
+        "image:": "assets/images/bluejay.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 1,
+        "name": "dove",
+        "image:": "assets/images/dove.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 2,
+        "name": "finch",
+        "image:": "assets/images/finch.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 3,
+        "name": "hawk",
+        "image:": "assets/images/hawk.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 4,
+        "name": "heron",
+        "image:": "assets/images/heron.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 5,
+        "name": "ibis",
+        "image:": "assets/images/ibis.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 6,
+        "name": "owl",
+        "image:": "assets/images/owl.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 7,
+        "name": "parakeet",
+        "image:": "assets/images/parakeet.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 8,
+        "name": "robin",
+        "image:": "assets/images/robin.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 9,
+        "name": "sparrow",
+        "image:": "assets/images/sparrow.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 10,
+        "name": "swallow",
+        "image:": "assets/images/swallow.jpg",
+        "isClicked": false
+    },
+    {
+        "id": 11,
+        "name": "woodpecker",
+        "image:": "assets/images/woodpecker.jpg",
+        "isClicked": false
+    }
+]
