@@ -2,73 +2,73 @@
     {
         "id": 0,
         "name": "bluejay",
-        "image:": "assets/images/bluejay.jpg",
+        "image": "assets/images/bluejay.jpeg",
         "isClicked": false
     },
     {
         "id": 1,
         "name": "dove",
-        "image:": "assets/images/dove.jpg",
+        "image": "assets/images/dove.jpeg",
         "isClicked": false
     },
     {
         "id": 2,
         "name": "finch",
-        "image:": "assets/images/finch.jpg",
+        "image": "assets/images/finch.jpeg",
         "isClicked": false
     },
     {
         "id": 3,
         "name": "hawk",
-        "image:": "assets/images/hawk.jpg",
+        "image": "assets/images/hawk.jpeg",
         "isClicked": false
     },
     {
         "id": 4,
         "name": "heron",
-        "image:": "assets/images/heron.jpg",
+        "image": "./assets/images/heron.jpeg",
         "isClicked": false
     },
     {
         "id": 5,
         "name": "ibis",
-        "image:": "assets/images/ibis.jpg",
+        "image": "assets/images/ibis.jpeg",
         "isClicked": false
     },
     {
         "id": 6,
         "name": "owl",
-        "image:": "assets/images/owl.jpg",
+        "image": "assets/images/owl.jpeg",
         "isClicked": false
     },
     {
         "id": 7,
         "name": "parakeet",
-        "image:": "assets/images/parakeet.jpg",
+        "image": "assets/images/parakeet.jpeg",
         "isClicked": false
     },
     {
         "id": 8,
         "name": "robin",
-        "image:": "assets/images/robin.jpg",
+        "image": "assets/images/robin.jpeg",
         "isClicked": false
     },
     {
         "id": 9,
         "name": "sparrow",
-        "image:": "assets/images/sparrow.jpg",
+        "image": "assets/images/sparrow.jpeg",
         "isClicked": false
     },
     {
         "id": 10,
         "name": "swallow",
-        "image:": "assets/images/swallow.jpg",
+        "image": "assets/images/swallow.jpeg",
         "isClicked": false
     },
     {
         "id": 11,
         "name": "woodpecker",
-        "image:": "assets/images/woodpecker.jpg",
+        "image": "assets/images/woodpecker.jpeg",
         "isClicked": false
     }
 ]

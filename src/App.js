@@ -92,6 +92,7 @@ class App extends Component {
   ;}
 
   handleRenderBirds = () => {
+    console.log(this.state.birds)
     return this.state.birds.map( (bird) =>
     <Item
       image={bird.image}
