@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/clicky-game/static/css/main.9b6639d2.chunk.css",
+    "main.js": "/clicky-game/static/js/main.6641d39e.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.6641d39e.chunk.js.map",
+    "runtime~main.js": "/clicky-game/static/js/runtime~main.27874bd3.js",
+    "runtime~main.js.map": "/clicky-game/static/js/runtime~main.27874bd3.js.map",
+    "static/js/2.8cac1a3c.chunk.js": "/clicky-game/static/js/2.8cac1a3c.chunk.js",
+    "static/js/2.8cac1a3c.chunk.js.map": "/clicky-game/static/js/2.8cac1a3c.chunk.js.map",
+    "index.html": "/clicky-game/index.html",
+    "precache-manifest.eab4dce6397463faea872b60bf6067ca.js": "/clicky-game/precache-manifest.eab4dce6397463faea872b60bf6067ca.js",
+    "service-worker.js": "/clicky-game/service-worker.js",
+    "static/css/main.9b6639d2.chunk.css.map": "/clicky-game/static/css/main.9b6639d2.chunk.css.map",
+    "static/media/Header.css": "/clicky-game/static/media/birds.37981b3e.jpg"
+  }
+}
